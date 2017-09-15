@@ -1,0 +1,422 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 414056 */
+  src: url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.eot');
+  src: url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.svg#iconfont') format('svg');
+}
+/*在线远程*/
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+.head{
+	background-image: url('../img/17.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	height: 100vh;
+}
+.zhezhao{
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.6);
+	font-size: 60px;
+	font-weight: bolder;
+	color: #fff;
+	text-align: center;
+	position:relative;
+
+}
+.zhezhao h1{
+	line-height: 462px;
+	position:absolute;
+	font-weight:bolder;
+	text-align: center;
+	left: 35%;
+	top: 10%;
+
+}
+.personal{
+	padding:90px 0;
+}
+.tp{
+	padding:0 15px;
+}
+.tp-right{
+	height:auto;
+	padding:0 15px;
+	padding-top:30px;
+}
+.about-me{
+	height:auto;
+	margin-bottom:20px;
+}
+.about-me h1{
+	margin-bottom:25px;
+	line-height:22px;
+	font-size:20px;
+	font-weight:700;
+}
+.about-me p{
+	color:#888;
+	font-size:17px;
+	line-height:27px;
+}
+.skill{
+	height:auto;
+}
+.skill-box{
+	height:auto;
+	margin-bottom:30px;
+}
+.skill-box h1{
+	line-height:27px;
+	font-size:14px;
+	margin-bottom:5px;
+	color:#000;
+}
+.skill-bar{
+	width:100%;
+	height:10px;
+	background-color:#d6d6d6;
+	border-radius:5px;
+	position:relative;
+}
+.skill-bar-color{
+	width:70%;
+	height:10px;
+	background-color:#222;
+	border-radius:5px;
+	position:absolute;
+	left:0;
+	bottom:0;
+}
+.skill-bar-color span{
+	color:#333;
+	font-size:13px;
+	position:absolute;
+	right:18px;
+	top:-13px;
+}
+.skill-box-1{
+	margin-bottom:0;
+}
+	/*二楼结束*/
+
+	/*三楼开始*/
+.floor-3{
+	padding:90px 0;
+	background-color:#f6f6f6;
+}
+.floor-3-list{
+	padding:0 15px;
+}
+.floor-3-row{
+	padding:0;
+}
+.floor-3-list-box{
+	padding:0 15px;
+	background-color:#f6f6f6;
+}
+.icon{
+	width:50px;
+	height:50px;
+	margin:0 auto;
+}
+.icon i{
+	font-size:28px;
+	color:#333;
+	margin-left:10px;
+	line-height:50px;
+}
+.floor-3-list-box h1{
+	font-size:14px;
+	color:#000;
+	text-align:center;
+	line-height:30px;
+}
+.floor-3-list-box p{
+	font-size:17px;
+	color:#888;
+	text-align:center;
+	line-height:27px;
+}
+	/*三楼结束*/
+
+	/*四楼开始*/
+.floor-4{
+	padding:90px 0;
+}
+.floor-4-box{
+	padding:0 15px;
+}
+.floor-4-title{
+	margin-bottom:30px;
+}
+.floor-4-title h1{
+	text-align:center;
+	line-height:25px;
+	margin-bottom:15px;
+	font-size:23px;
+	color:#333;
+}
+.floor-4-title p{
+	font-size:17px;
+	line-height:27px;
+	color:#888;
+	text-align:center;
+}
+.floor-4-title-2{
+	margin-bottom:30px;
+	text-align:center;
+}
+.floor-4-title-2 h2{
+	font-size:13px;
+	line-height:18px;
+	margin-right:10px;
+	color:#333;
+	display:inline-block;
+}
+/*.floor-4-list-box{
+	background-color:gold;
+}*/
+.floor-4-list{
+	padding:0 15px;
+	margin-bottom:30px;
+}
+	/*四楼结束*/
+
+	/*五楼开始*/
+.floor-5{
+	padding:90px 0;
+	background-color:gray;
+}
+.floor-5-box{
+	padding:0 15px;
+}
+.floor-5-title{
+	margin-bottom:30px;
+}
+.floor-5-title h1{
+	text-align:center;
+	line-height:25px;
+	margin-bottom:15px;
+	font-size:23px;
+	color:#333;
+}
+.floor-5-title p{
+	font-size:17px;
+	line-height:27px;
+	color:#f0f0f0;
+	text-align: center;
+}
+.floor-5-list-box{
+	padding:0;
+}
+	/*五楼结束*/
+
+	/*六楼开始*/
+.floor-6{
+	padding:90px 0;
+}
+.floor-6-box{
+	padding:0 15px;
+
+}
+.floor-6-title{
+	margin-bottom:30px;
+}
+.floor-6-title h1{
+	text-align:center;
+	line-height:25px;
+	margin-bottom:15px;
+	font-size:23px;
+	color:#333;
+}
+.floor-6-title p{
+	font-size:17px;
+	line-height:27px;
+	color:#888;
+	text-align:center;
+}
+.floor-6-list-box{
+	padding:0;
+}
+.floor-6-list{
+	padding:0 15px;
+	margin-bottom:30px;
+}
+.floor-6-list-p{
+	padding:10px;
+}
+.floor-6-list-p h2{
+	line-height:22px;
+	margin-bottom:15px;
+	font-size:20px;
+	color:#333;
+}
+.floor-6-list-p p{
+	line-height:27px;
+	font-size:17px;
+	color:#888;
+}
+.floor-6-list-p h3{
+	line-height:13px;
+	margin-top:10px;
+	font-size:11px;
+	color:#616161;
+}
+.more{
+	margin-top:20px;
+	line-height:22px;
+	text-align:center;
+}
+.more a{
+	color:#000;
+	font-size:12px;
+	padding:13px 40px;
+	border:2px solid #000;
+	border-radius:50px;
+	display:inline-block;
+}
+	/*六楼结束*/
+
+	/*七楼开始*/
+.floor-7{
+	padding:90px 0;
+	background-color:#f6f6f6;
+}
+.floor-7-box{
+	padding:0 15px;
+}
+.floor-7-title{
+	margin-bottom:30px;
+}
+.floor-7-title h1{
+	text-align:center;
+	line-height:25px;
+	margin-bottom:15px;
+	font-size:23px;
+	color:#333;
+}
+.floor-7-title p{
+	font-size:17px;
+	line-height:27px;
+	color:#888;
+}
+.floor-7-list-box{
+	padding:0;
+}
+.floor-7-list{
+	padding:0 15px;
+	margin-bottom:30px;
+}
+.floor-7-list-left{
+	padding:20px;
+	background-color:#fff;
+}
+.list-left-li{
+	margin-bottom:20px;
+}
+.list-left-li i{
+	margin-bottom:10px;
+	line-height:21px;
+	font-size:21px;
+	color:#000;
+	display:block;
+}
+.list-left-li span{
+	line-height:17px;
+	font-size:12px;
+	color:#000;
+	display:block;
+}
+.list-left-li p{
+	line-height:27px;
+	font-size:17px;
+	color:#888;
+}
+
+.floor-7-list-form input:nth-child(1){
+	padding:7px 10px;
+	margin-bottom:30px;
+	color:#888;
+	background-color:#fff;
+	border:none;
+	outline:none;
+	display:block;
+	font-size:16px;
+	line-height:41px;
+	min-width:100%;
+}
+.floor-7-list-form input:nth-child(2){
+	padding:7px 10px;
+	margin-bottom:30px;
+	color:#888;
+	background-color:#fff;
+	border:none;
+	outline:none;
+	display:block;
+	font-size:16px;
+	line-height:41px;
+	min-width:100%;
+}
+.input-box{
+	position:relative;
+}
+.input-box textarea{
+	padding:10px 80px 10px 10px;
+	min-width:100%;
+	color:#888;
+	font-size:16px;
+	background-color:#fff;
+	height:160px;
+}
+.input-box button{
+	position:absolute;
+	right:0;
+	top:0; 
+	background-color:#000;
+	border:none;
+	width:80px;
+	height:97%;
+}
+.input-box button i{
+	font-size:30px;
+	color:#fff;
+}
+	/*七楼结束*/
+
+	/*底部开始*/
+.footer-end{
+	background-color:#111;
+	padding:70px 0;
+}
+.footer-end-box{
+	padding:0 15px;
+	margin:0 auto;
+}
+.footer-end-box p{
+	color:#888;
+	text-align:center;
+	margin-top:10px;
+	line-height:20px;
+	font-size:13px;
+}
+.footer-icon{
+	text-align:center;
+}
+.footer-icon a{
+	line-height:23px;
+	padding:0 20px;
+}
+.footer-icon a i{
+	font-size:18px;
+	color:#fff;
+}
