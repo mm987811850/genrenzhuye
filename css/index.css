@@ -1,10 +1,10 @@
-@font-face {
+﻿@font-face {
   font-family: 'iconfont';  /* project id 414056 */
-  src: url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.eot');
-  src: url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.eot?#iefix') format('embedded-opentype'),
-  url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.woff') format('woff'),
-  url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.ttf') format('truetype'),
-  url('http://at.alicdn.com/t/font_414056_d78l88yivfxyldi.svg#iconfont') format('svg');
+  src: url('https://at.alicdn.com/t/font_414056_d78l88yivfxyldi.eot');
+  src: url('https://at.alicdn.com/t/font_414056_d78l88yivfxyldi.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_414056_d78l88yivfxyldi.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_414056_d78l88yivfxyldi.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_414056_d78l88yivfxyldi.svg#iconfont') format('svg');
 }
 /*在线远程*/
 .iconfont{
